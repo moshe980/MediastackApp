@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423206093836",
+    "project_id": "mediastackapp-75e0e",
+    "storage_bucket": "mediastackapp-75e0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423206093836:android:183f758b97fb3a87691a29",
+        "android_client_info": {
+          "package_name": "com.example.mediastackapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423206093836-rth98pbf85qmpsoeruqlishf75q361g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBnVX5wnmc9pc1TXReOb95Gn_aJosNxTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423206093836-rth98pbf85qmpsoeruqlishf75q361g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
