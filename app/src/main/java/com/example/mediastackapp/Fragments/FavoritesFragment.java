@@ -69,7 +69,7 @@ public class FavoritesFragment extends Fragment {
         // Configure Google Sign In
         GoogleSignInOptions gso = new GoogleSignInOptions
                 .Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
-                .requestIdToken("588641862986-j531mrf2j9ofbjb5smq5ca4ovjfqlcvs.apps.googleusercontent.com")
+                .requestIdToken("588641862986-j531mrf2j9o2fbjb5smq5ca4ovjfqlcvs.apps.googleusercontent.com")
                 .requestEmail()
                 .build();
 
